@@ -1,4 +1,4 @@
-from pyrogram import Client, Filters, InlineKeyboardButton, InlineKeyboardMarkup
+from pyrogram import Client, InlineKeyboardButton, InlineKeyboardMarkup
 import tgcrypto, os
 from googlesearch import search 
 
