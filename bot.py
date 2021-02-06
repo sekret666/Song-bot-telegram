@@ -10,7 +10,7 @@ def dl(input):
 		
 welcome_msg = "Hello {} 👋\n\nI'm iSong Downloader Bot🎵\n\n**How to use me** ❓\nCommand : /song (song_name)\n\nExample : `/song let me love you`\nExample2: `/song Baby by Justin Bieber`"
 
-app = Client("iSongDL_Bot", api_id=938340, api_hash="4c47ceee0c51daa3e6608dd728c6148d", bot_token="1054042457:AAGLg3jCAr5L5PSFY5S3LHV2rECu9It2sp4")
+app = Client("iSongDL_Bot", api_id=938340, api_hash="4c47ceee0c51daa3e6608dd728c6148d", bot_token="1624907624:AAHe4LwnAC7sLbiyWQJq-5l6uq4BchytHe4")
 
 @app.on_message(Filters.command(['start', 'help']))
 
